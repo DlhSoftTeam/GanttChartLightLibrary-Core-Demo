@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GanttChartLightLibraryCoreDemo", "GanttChartLightLibraryCoreDemo.csproj", "{DA266158-8B77-4C2D-A1E7-68CF0E13F275}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA266158-8B77-4C2D-A1E7-68CF0E13F275}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA266158-8B77-4C2D-A1E7-68CF0E13F275}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA266158-8B77-4C2D-A1E7-68CF0E13F275}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA266158-8B77-4C2D-A1E7-68CF0E13F275}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8788F714-29CB-461C-8F29-9CB62E95575D}
+	EndGlobalSection
+EndGlobal
