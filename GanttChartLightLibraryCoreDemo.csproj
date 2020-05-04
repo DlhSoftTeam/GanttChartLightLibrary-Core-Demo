@@ -45,7 +45,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="DlhSoft.GanttChartLightLibrary" Version="4.3.43.13" />
+    <PackageReference Include="DlhSoft.GanttChartLightLibrary" Version="4.3.43.15" />
   </ItemGroup>
 
   <ItemGroup>
